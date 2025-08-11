@@ -1,7 +1,7 @@
 
 # Hi, I'm Sudiksha Tamrakar! 👋
 
-I am a passionate Mscit student at Leeds Beckett University, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate Mscit student from Leeds Beckett University, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![SudikshaTamrakar's Stats](https://github-readme-stats.vercel.app/api?username=SudikshaTamrakar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
